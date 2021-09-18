@@ -1,5 +1,5 @@
-# GTA5-PictureRecover
-Convert GTA5 pictures to jpg image files
+# GTA5 Snapmatic Converter
+Convert GTA5 snapmatics to jpg image files
 
 ### How to use
 
