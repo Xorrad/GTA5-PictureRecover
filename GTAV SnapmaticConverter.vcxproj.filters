@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GTAV PictureRecover.cpp">
+    <ClCompile Include="GTAV SnapmaticConverter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
